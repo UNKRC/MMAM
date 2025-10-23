@@ -1,0 +1,44 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #14142C;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #17753E;
+  padding: 20px;
+  color: white;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+table {
+  width: 90%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background-color: #1E1E2F;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 12px;
+  border-bottom: 1px solid #3EB55B;
+}
+
+th {
+  background-color: #17753E;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #13141A;
+  color: #3EB55B;
+}

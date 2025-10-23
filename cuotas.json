@@ -1,0 +1,22 @@
+{
+  "peleas": [
+    {
+      "id": 1,
+      "evento": "Fight Night Ciego de Ávila",
+      "peleadorA": "Carlos Vega",
+      "cuotaA": 1.65,
+      "peleadorB": "El Toro Díaz",
+      "cuotaB": 2.35,
+      "fecha": "2025-10-28"
+    },
+    {
+      "id": 2,
+      "evento": "MMA Underground",
+      "peleadorA": "Luis Armas",
+      "cuotaA": 1.90,
+      "peleadorB": "Miguel García",
+      "cuotaB": 1.95,
+      "fecha": "2025-11-05"
+    }
+  ]
+}
