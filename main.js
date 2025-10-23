@@ -1,4 +1,4 @@
-fetch('data/cuotas.json')
+fetch('cuotas.json')
   .then(res => res.json())
   .then(data => {
     const tabla = document.getElementById('tabla-cuotas');
