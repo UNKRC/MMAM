@@ -2,21 +2,21 @@
   "peleas": [
     {
       "id": 1,
-      "evento": "Fight Night Ciego de Ávila",
-      "peleadorA": "Carlos Vega",
-      "cuotaA": 3,
-      "peleadorB": "El Toro Díaz",
-      "cuotaB": 27.35,
-      "fecha": "2025-10-28"
+      "evento": "Fight Night CB Deportivo",
+      "peleadorA": "Pulpo",
+      "cuotaA": 1.50,
+      "peleadorB": "Leo",
+      "cuotaB": 2.30,
+      "fecha": "2025-22-11"
     },
     {
       "id": 2,
       "evento": "MMA Underground",
-      "peleadorA": "Pulpo",
-      "cuotaA": 30.90,
-      "peleadorB": "Miguel García",
-      "cuotaB": 15.95,
-      "fecha": "2025-11-05"
+      "peleadorA": "Calamar",
+      "cuotaA": 1.80,
+      "peleadorB": "JOHAN",
+      "cuotaB": 2.00,
+      "fecha": "2025-22-11"
     }
   ]
 }

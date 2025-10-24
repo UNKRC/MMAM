@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background-color: #17753E;
+  background-color: #9b0705;
   padding: 20px;
   color: white;
 }
@@ -33,7 +33,7 @@ th, td {
 }
 
 th {
-  background-color: #17753E;
+  background-color: pink;
 }
 
 footer {
