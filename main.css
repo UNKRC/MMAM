@@ -29,16 +29,16 @@ table {
 
 th, td {
   padding: 12px;
-  border-bottom: 1px solid #3EB55B;
+  border-bottom: 1px solid orange;
 }
 
 th {
-  background-color: pink;
+  background-color: salmon;
 }
 
 footer {
   margin-top: 40px;
   padding: 20px;
   background-color: #13141A;
-  color: #3EB55B;
+  color: blue;
 }
