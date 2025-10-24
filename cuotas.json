@@ -6,16 +6,16 @@
       "peleadorA": "Carlos Vega",
       "cuotaA": 3,
       "peleadorB": "El Toro Díaz",
-      "cuotaB": 2.35,
+      "cuotaB": 27.35,
       "fecha": "2025-10-28"
     },
     {
       "id": 2,
       "evento": "MMA Underground",
       "peleadorA": "Pulpo",
-      "cuotaA": 3.90,
+      "cuotaA": 30.90,
       "peleadorB": "Miguel García",
-      "cuotaB": 1.95,
+      "cuotaB": 15.95,
       "fecha": "2025-11-05"
     }
   ]
